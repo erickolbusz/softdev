@@ -20,6 +20,13 @@ Eric Kolbusz, Miranda Chaiken, Leon Frajmund, Edison Shi
 A blogging site created using flask and sqlite. Users can create posts under blogs and comment on each post.
 #### https://github.com/voidyknight/BlogEngine.git
 
+### Census Data Analyzer
+#### Team Members
+Eric Kolbusz, Chesley Tan
+#### Description
+A census querying tool that utilizes the US government's own API along with flask to organize census data in a reader-friendly manner.
+#### https://github.com/ChesleyTan/Census.git
+
 ## Mini Projects
 
  * login
