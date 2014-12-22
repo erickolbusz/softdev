@@ -27,8 +27,19 @@ Eric Kolbusz, Chesley Tan
 A census querying tool that utilizes the US government's own API along with flask to organize census data in a reader-friendly manner.
 #### https://github.com/ChesleyTan/Census.git
 
-## Mini Projects
 
+## Final Project
+#### Team Members
+Eric Kolbusz, David Bang, Anish Malhotra, Dionis Wang
+
+
+## Mini Projects
+ * invisiblethluffy
+  * Eric Kolbusz, Anish Malhotra
+  * 5/invisiblethluffy/erickolbusz_anish
+ * todo
+  * Eric Kolbusz
+  * 5/todo/eric_kolbusz
  * login
   * Eric Kolbusz, David Bang
   * 5/login/erickolbusz-david
