@@ -31,6 +31,7 @@ A census querying tool that utilizes the US government's own API along with flas
 ## Final Project
 #### Team Members
 Eric Kolbusz, David Bang, Anish Malhotra, Dionis Wang
+#### https://github.com/softDEAD/TourSea.git
 
 
 ## Mini Projects
