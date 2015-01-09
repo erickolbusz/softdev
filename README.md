@@ -4,6 +4,13 @@ Eric Kolbusz
 # Fall Semester
 Period 5
 
+## Final Project
+#### Team Members
+Eric Kolbusz, David Bang, Anish Malhotra, Dionis Wang
+#### https://github.com/softDEAD/Ferries.git
+
+
+
 ## Main Projects
 
 ### Search Engine
@@ -27,11 +34,6 @@ Eric Kolbusz, Chesley Tan
 A census querying tool that utilizes the US government's own API along with flask to organize census data in a reader-friendly manner.
 #### https://github.com/ChesleyTan/Census.git
 
-
-## Final Project
-#### Team Members
-Eric Kolbusz, David Bang, Anish Malhotra, Dionis Wang
-#### https://github.com/softDEAD/TourSea.git
 
 
 ## Mini Projects
