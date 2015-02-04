@@ -7,6 +7,8 @@ Period 5
 ## Final Project
 #### Team Members
 Eric Kolbusz, David Bang, Anish Malhotra, Dionis Wang
+#### Description
+A website designed to facilitate the purchase of food from outside school.
 #### https://github.com/softDEAD/Ferries.git
 
 
