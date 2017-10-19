@@ -41,16 +41,16 @@ A census querying tool that utilizes the US government's own API along with flas
 ## Mini Projects
  * invisiblethluffy
   * Eric Kolbusz, Anish Malhotra
-  * 5/invisiblethluffy/erickolbusz_anish
+  * https://github.com/stuycs-softdev-2014-2015/submissions-fall-2014/tree/master/5/invisiblethluffy/erickolbusz_anish
  * todo
   * Eric Kolbusz
-  * 5/todo/eric_kolbusz
+  * https://github.com/stuycs-softdev-2014-2015/submissions-fall-2014/tree/master/5/todo/eric_kolbusz
  * login
   * Eric Kolbusz, David Bang
-  * 5/login/erickolbusz-david
+  * https://github.com/stuycs-softdev-2014-2015/submissions-fall-2014/tree/master/5/login/erickolbusz-david
  * regexp
   * Eric Kolbusz, Elvin Shoyfer
-  * 5/regexp/elvin_erickolbusz
+  * https://github.com/stuycs-softdev-2014-2015/submissions-fall-2014/tree/master/5/regexp/elvin_erickolbusz
  * intro-proj 1
   * Eric Kolbusz, Nathaniel Brassell  
-  * 5/intro-proj1/eric-kolbusz-nathaniel-brassell
+  * https://github.com/stuycs-softdev-2014-2015/submissions-fall-2014/tree/master/5/intro-proj1/eric-kolbusz-nathaniel-brassell
