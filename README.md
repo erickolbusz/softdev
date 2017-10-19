@@ -1,6 +1,42 @@
 Eric Kolbusz
 ==========
 
+# Spring Semester
+Period 5
+
+## Final Project
+#### Team Members
+Eric Kolbusz, Chesley Tan, Aaron Mortenson, Abrar Ahmed
+#### Description
+A crowd-sourced public utility rating and locator application for when you need a bathroom, bench, water fountain, etc.
+#### https://github.com/wheredabathroomatdoe/wheredabathroomatdoe.git
+
+
+
+## Mini Projects
+ * backbone
+  * Eric Kolbusz, Junhao Dong
+  * practice using backbone
+  * https://github.com/stuycs-softdev-2014-2015/submissions/tree/master/5/backbone1/eric-kolbusz_junhao
+ * __canvas__
+  * Eric Kolbusz, Aaron Mortenson
+  * practice using html5 canvas
+  * https://github.com/stuycs-softdev-2014-2015/submissions/tree/master/5/canvas/aaron_eric
+ * marionette
+  * Eric Kolbusz
+  * practice using marionette
+  * https://github.com/stuycs-softdev-2014-2015/submissions/tree/master/5/marionette/eric_kolbusz
+ * mountains
+  * Eric Kolbusz
+  * practice using lodash
+  * https://github.com/stuycs-softdev-2014-2015/submissions/tree/master/5/mountains/eric_kolbusz
+ * svg
+  * practice using and animating svg
+  * https://github.com/stuycs-softdev-2014-2015/submissions/tree/master/5/svg/eric_kolbusz
+
+
+
+------
 # Fall Semester
 Period 5
 
@@ -39,7 +75,7 @@ A census querying tool that utilizes the US government's own API along with flas
 
 
 ## Mini Projects
- * invisiblethluffy
+ * __invisiblethluffy__
   * Eric Kolbusz, Anish Malhotra
   * https://github.com/stuycs-softdev-2014-2015/submissions-fall-2014/tree/master/5/invisiblethluffy/erickolbusz_anish
  * todo
